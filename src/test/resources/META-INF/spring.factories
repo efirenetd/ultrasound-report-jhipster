@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = org.efire.net.config.TestContainersSpringContextCustomizerFactory
